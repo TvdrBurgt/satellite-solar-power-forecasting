@@ -1,0 +1,5 @@
+black==22.10.0
+flake8-pyproject==1.2.3
+isort[colors]==5.13.2
+mypy==1.10.1
+pre-commit==3.7.1
